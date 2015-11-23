@@ -1,0 +1,1 @@
+# ajkerDeal_imageSlider
